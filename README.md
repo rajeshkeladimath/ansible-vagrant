@@ -1,2 +1,2 @@
 # ansible-vagrant
-Build automation
+This is a test project for build automation using ansible and vagrant.
